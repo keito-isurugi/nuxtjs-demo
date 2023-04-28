@@ -109,6 +109,11 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
+          title: 'Demo',
+          to: '/demo/'
+        },
+        {
+          icon: 'mdi-chart-bubble',
           title: 'About',
           to: '/about'
         }
